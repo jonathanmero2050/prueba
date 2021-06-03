@@ -8,7 +8,7 @@ This proyect has two branches: develop1 and develop2. **develop1** contains the 
 ## Preview
 Imagen
 
-![](/i5.jpeg)
+![](/i5.jpg)
 
 ### Notes
 notas [markdown.es](https://markdown.es/sintaxis-markdown/)
